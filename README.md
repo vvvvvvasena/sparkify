@@ -11,7 +11,7 @@ This is a binary classification problem.
 ## Project description:
 
 Detailed analysis, feature engineering and modeling description can be found in the blogpost:
-
+https://vasena91.medium.com/sparkify-churn-prediction-6320f9e69026
 
 All source code is in Sparkify.ipnbb notebook file.
 
